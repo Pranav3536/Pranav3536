@@ -1,126 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=230&section=header&text=PRANAV%20SHRIVASTAV&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Machine%20Learning&descAlignY=56&descSize=16&animation=twinkling" width="100%"/>
+[![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Analyzing+Business+Problems" alt="Typing SVG" />
+# Pranav Shrivastav
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Analyzing+Business+Problems" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/Pranav3536"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+> **"Turning raw data into decisions that matter — one dashboard, one insight at a time."**
 
-<img src="https://komarev.com/ghpvc/?username=Pranav3536&label=Profile%20Views&color=6366F1&style=flat-square" />
+[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-shrivastav-1101b334/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codebasics.io/portfolio/PRANAV-SHRIVASTAV)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3536)
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=Pranav3536&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/Pranav3536)
 
-<br/>
-
-<div align="center">
-
-### 📊 Data Analytics & Machine Learning enthusiast — turning raw data into decisions that matter.
+[![gradient line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-<div align="center">
+Data Analytics & Machine Learning enthusiast focused on transforming raw data into actionable business insights — with hands-on experience in dashboarding, SQL analytics, and predictive modeling.
 
-## ⚡ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,git,github,vscode,flask&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/DAX-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_Query-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-
-</div>
+|                    |                                                              |
+|--------------------|--------------------------------------------------------------|
+| 🎯 **Focus**        | Data Analytics • Business Intelligence • Machine Learning   |
+| 🛠️ **Core Stack**   | Python • SQL • Power BI • DAX • Scikit-learn                |
+| 💬 **Ask me about** | Dashboards • EDA • Business Analytics • Predictive Models   |
+| 📫 **Reach me**     | [LinkedIn](https://www.linkedin.com/in/pranav-shrivastav-1101b334/) |
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=500&color=8B5CF6&center=true&vCenter=true&width=680&lines=RAW+DATA+%E2%86%92+CLEANING+%E2%86%92+EDA+%E2%86%92+ANALYSIS+%E2%86%92+POWER+BI+%E2%86%92+INSIGHTS+%E2%86%92+ML" alt="Workflow SVG" />
-</div>
+[![productive working](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
-<br/>
+## 🛠️ Tech Stack
 
-## 🚀 Featured Work
+**Data & BI**
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" height="42"/>
 
-### 🚗 AtliQ Motors
-**EV Market Intelligence**
+**Machine Learning**
 
-India EV market trends · Maker & state-wise analysis · YoY growth
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="42"/>
 
-`Python` `Pandas` `Power BI` `DAX`
+**Tools**
 
-**[→ View Project](https://github.com/Pranav3536)**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="42"/>
 
-</td>
-<td width="50%" valign="top">
+[![skills](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
 
-### 🛡️ Shield Insurance
-**Insurance Business Analytics**
+## ⭐ Featured Projects
 
-Customer segmentation · Premium revenue · Channel performance
+[![happy coder](https://user-images.githubusercontent.com/74038190/221352969-6d1c48d6-5645-4b4a-80b8-4148b3a707e6.gif)](https://user-images.githubusercontent.com/74038190/221352969-6d1c48d6-5645-4b4a-80b8-4148b3a707e6.gif)
 
-`SQL` `Python` `Excel` `Power BI`
+### 🚗 1. AtliQ Motors — EV Market Intelligence
 
-**[→ View Project](https://github.com/Pranav3536/Shield_Insurance_Analysis)**
+India Electric Vehicle market analysis covering sales trends, maker performance, state-wise penetration, and year-over-year growth.
 
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🔴 **Problem** | Fragmented EV sales data with no unified view across makers and states |
+| 🟢 **Solution** | Cleaned & modeled data into a multi-page Power BI dashboard for market intelligence |
+| ✨ **Features** | Maker Analysis • State Analysis • Executive Overview • YoY Trends |
 
-<br/>
+**Tech:** `Python` `Pandas` `Power BI` `DAX`
 
-## 📈 GitHub Analytics
+**[🔗 View Repository](https://github.com/Pranav3536)**
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=6366F1&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=c9d1d9" width="49%" />
+### 🛡️ 2. Shield Insurance Analysis
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav3536&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE" width="70%" />
+Insurance business analytics exploring customer demographics, premium revenue distribution, and sales channel performance.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pranav3536&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4&row=1" width="80%" />
+| | |
+|---|---|
+| 🔴 **Problem** | No clear visibility into which regions, age groups & channels drive premium revenue |
+| 🟢 **Solution** | SQL + Power BI analytics layer surfacing customer and revenue insights |
+| ✨ **Features** | Customer Segmentation • Premium Revenue Analysis • Channel Performance • Demographics |
 
-</div>
+**Tech:** `SQL` `Python` `Excel` `Power BI`
 
-<br/>
+**Known Insights:** Delhi NCR shows the highest revenue/customer concentration · Age group 31–40 drives strong premium revenue · Offline agents are the leading sales channel · Online channel is an emerging growth opportunity
 
-<div align="center">
+**[🔗 View Repository](https://github.com/Pranav3536/Shield_Insurance_Analysis)**
 
-### 🐍 Contribution Snake
+[![code cool stuff](https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif)](https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif)
 
-<img src="https://raw.githubusercontent.com/Pranav3536/Pranav3536/output/github-contribution-grid-snake.svg" width="100%" />
+## 🔄 My Data Workflow
 
-### 🧊 3D Contribution Graph
+```
+┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+│  📥 Raw Data │ →  │  🧹 Cleaning│ →  │  🔬 EDA     │ →  │  📊 Power BI│ →  │  🤖 ML      │
+│             │    │             │    │  Analysis   │    │  Insights   │    │  Prediction │
+└─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘    └─────────────┘
+```
 
-<img src="https://raw.githubusercontent.com/Pranav3536/Pranav3536/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
+[![sketch working](https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif)](https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif)
 
 ## 🎯 Current Focus
 
 Machine Learning &nbsp;•&nbsp; Advanced SQL &nbsp;•&nbsp; Statistics &nbsp;•&nbsp; Predictive Analytics &nbsp;•&nbsp; Data Storytelling &nbsp;•&nbsp; Business Intelligence
 
-</div>
-
 <br/>
 
+[![gradient line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+## 📫 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [pranav-shrivastav](https://www.linkedin.com/in/pranav-shrivastav-1101b334/) |
+| 🌐 **Portfolio** | [codebasics.io/PRANAV-SHRIVASTAV](https://codebasics.io/portfolio/PRANAV-SHRIVASTAV) |
+| 💻 **GitHub** | [@Pranav3536](https://github.com/Pranav3536) |
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:0F172A&height=120&section=footer" width="100%"/>
+
+[![wave](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)](https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif)
+
+### Thanks for visiting my profile! 👋
+
+**⭐ If you like my work, check out my repositories!**
+
 </div>
