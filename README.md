@@ -270,15 +270,13 @@ The project focuses on understanding how different student-related features can 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=125&section=header&text=MY%20DATA%20WORKFLOW&fontSize=27&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:4F46E5,100:8B5CF6&height=75&section=header&text=RAW%20DATA%20%E2%86%92%20CLEANING%20%E2%86%92%20EDA%20%E2%86%92%20SQL%20%E2%86%92%20POWER%20BI%20%E2%86%92%20INSIGHTS%20%E2%86%92%20ML&fontSize=15&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
 </div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=820&lines=RAW+DATA;↓;CLEANING+%26+VALIDATION;↓;EDA+%26+STATISTICAL+ANALYSIS;↓;SQL+%26+BUSINESS+ANALYSIS;↓;POWER+BI+%26+VISUALIZATION;↓;BUSINESS+INSIGHTS;↓;MACHINE+LEARNING+%26+PREDICTION" alt="Data Workflow"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -304,19 +302,19 @@ The project focuses on understanding how different student-related features can 
 
 ---
 
-## 📈 GitHub Activity
+## 🧩 What I Work With
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=6366F1&text_color=CBD5E1&rank_icon=github" width="70%"/>
+`Python` · `SQL` · `Power BI` · `Excel` · `DAX` · `Pandas`
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" width="55%"/>
+`Data Cleaning` · `EDA` · `Business Analytics` · `Data Visualization`
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav3536&hide_border=true&background=0F172A&ring=22D3EE&fire=6366F1&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" width="70%"/>
+`Machine Learning` · `Predictive Analytics` · `Statistics`
 
 </div>
 
