@@ -1,163 +1,357 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1E293B,100:0F172A&height=190&section=header&text=PRANAV%20SHRIVASTAV&fontSize=40&fontColor=22D3EE&fontAlignY=40&animation=fadeIn&desc=DATA%20ANALYST%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20%E2%80%A2%20MACHINE%20LEARNING&descAlignY=62&descSize=14&descColor=94A3B8" width="100%"/>
+<!-- ==================== HERO BANNER ==================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Analyzing+Business+Problems" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pranav-shrivastav-1101b334/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://codebasics.io/portfolio/PRANAV-SHRIVASTAV)
-[![GitHub](https://img.shields.io/badge/-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav3536)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=240&section=header&text=PRANAV%20SHRIVASTAV&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=61&descSize=15&descColor=CBD5E1" width="100%"/>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
+<!-- ==================== TYPING ANIMATION ==================== -->
 
-### About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Turning+Raw+Data+into+Business+Insights;Building+Interactive+Power+BI+Dashboards;Analyzing+Business+Problems+with+Data;Building+Machine+Learning+Solutions" alt="Typing Animation"/>
 
-Data Analytics & Machine Learning enthusiast focused on transforming raw data into **actionable business insights** — through dashboards, SQL analytics, and predictive modeling.
+<br/><br/>
 
-I like taking messy, real-world data and turning it into something a business can actually act on.
+<!-- ==================== SOCIAL LINKS ==================== -->
 
-</td>
-<td width="38%" valign="top">
+<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://github.com/Pranav3536">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
-**Quick Facts**
-
-🎯 Data Analyst · BI · ML
-🛠️ Python · SQL · Power BI
-📊 Dashboard-first thinker
-📫 Open to opportunities
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6366F1,100:06B6D4&height=90&section=header&text=SKILLS%20%26%20TOOLS&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
-</div>
+---
 
-## ⚡ Tech Stack
+## 👋 About Me
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,powerbi,git,github,vscode,flask,sklearn&theme=dark&perline=8" />
-</div>
+I'm a **Data Analyst & Business Intelligence enthusiast** focused on turning raw data into clear, actionable business insights.
 
-<div align="center">
+I work with **Python, SQL, Excel and Power BI** for data cleaning, analysis, visualization and business reporting, while also exploring **Machine Learning and predictive analytics**.
 
-`Pandas` `NumPy` `Matplotlib` `DAX` `Power Query` `Excel`
-
-</div>
+> **Data → Insights → Decisions**
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:8B5CF6,100:22D3EE&height=90&section=header&text=FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+`📊 Data Analytics` &nbsp;&nbsp;
+`💼 Business Intelligence` &nbsp;&nbsp;
+`🤖 Machine Learning` &nbsp;&nbsp;
+`📈 Data Storytelling`
+
 </div>
 
-## 🚀 Featured Projects
+---
 
-<details open>
-<summary><b>🚗 AtliQ Motors — EV Market Intelligence</b></summary>
-<br/>
+<!-- ==================== SKILLS BANNER ==================== -->
 
-India Electric Vehicle market analysis covering sales trends, maker performance, state-wise penetration, and year-over-year growth.
+<div align="center">
 
-| | |
-|---|---|
-| 🔴 **Problem** | Fragmented EV sales data, no unified view across makers & states |
-| 🟢 **Solution** | Cleaned & modeled data into a multi-page Power BI dashboard |
-| ✨ **Dashboard Pages** | Home · Maker Analysis · State Analysis · Executive Overview |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,75:4F46E5,100:312E81&height=130&section=header&text=TECH%20STACK&fontSize=30&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
+
+</div>
+
+## ⚡ Skills & Tools
+
+### 📊 Data Analytics & BI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+
+<br/><br/>
+
+`Power BI` &nbsp; `Excel` &nbsp; `DAX` &nbsp; `Power Query` &nbsp; `Pandas` &nbsp; `NumPy`
+
+</div>
+
+### 🤖 Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
+
+<br/><br/>
+
+`Scikit-learn` &nbsp; `EDA` &nbsp; `Statistics` &nbsp; `Feature Analysis` &nbsp; `Predictive Analytics`
+
+</div>
+
+### 🛠️ Development & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask&theme=dark"/>
+
+</div>
+
+---
+
+<!-- ==================== PROJECTS BANNER ==================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,40:4F46E5,70:06B6D4,100:22D3EE&height=140&section=header&text=FEATURED%20PROJECTS&fontSize=31&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
+
+</div>
+
+# 🚀 Projects
+
+## 🚗 AtliQ Motors — EV Market Analysis
+
+**India Electric Vehicle Market Intelligence**
+
+Analyzed India's EV market to understand **sales trends, manufacturer performance, state-level penetration and year-over-year growth**.
+
+### 🔍 What I Worked On
+
+- Cleaned and prepared EV market datasets
+- Performed EDA using Python & Pandas
+- Analyzed EV sales and market penetration
+- Compared manufacturers and states
+- Built an interactive Power BI dashboard
+- Created DAX measures for business KPIs
+
+### 📊 Dashboard
+
+`Home` → `Maker Analysis` → `State Analysis` → `Executive Overview`
+
+### 🧰 Tech Stack
 
 `Python` `Pandas` `Power BI` `DAX`
 
-**[→ View Repository](https://github.com/Pranav3536/EV-Market-Analysis-for-AtliQ-Motors)**
-
-</details>
-
 <br/>
 
-<details open>
-<summary><b>🛡️ Shield Insurance — Insurance Business Analytics</b></summary>
-<br/>
+<div align="center">
 
-Insurance business analytics exploring customer demographics, premium revenue distribution, and sales channel performance.
+<a href="https://github.com/Pranav3536/EV-Market-Analysis-for-AtliQ-Motors">
 
-| | |
-|---|---|
-| 🔴 **Problem** | No clear visibility into which regions, age groups & channels drive revenue |
-| 🟢 **Solution** | SQL + Power BI analytics layer surfacing customer & revenue insights |
-| ✨ **Key Insights** | Delhi NCR leads in revenue concentration · Age 31–40 drives premium revenue · Offline agents are the top channel · Online is a growth opportunity |
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 🛡️ Shield Insurance — Business Analytics
+
+**Insurance Business & Customer Analytics**
+
+Analyzed insurance data to understand **customer demographics, premium revenue, regional performance and sales-channel behavior**.
+
+### 🔍 Analysis Areas
+
+- Customer demographic analysis
+- Premium revenue analysis
+- Regional performance analysis
+- Sales-channel comparison
+- Business KPI analysis
+- Interactive Power BI dashboard
+
+### 💡 Business Insights
+
+**Delhi NCR** → Highest revenue/customer concentration
+
+**Age 31–40** → Strong premium revenue contribution
+
+**Offline Agents** → Strong-performing sales channel
+
+**Online Channel** → Identified growth opportunity
+
+### 🧰 Tech Stack
 
 `SQL` `Python` `Excel` `Power BI`
 
-**[→ View Repository](https://github.com/Pranav3536/Shield_Insurance_Analysis)**
-
-</details>
-
 <br/>
 
-<details open>
-<summary><b>📊 Business Insights 360 — Atliq Hardware Sales Analysis</b></summary>
-<br/>
+<div align="center">
 
-End-to-end BI project analyzing Atliq Hardware's sales performance — from raw transactional data to an interactive executive dashboard.
+<a href="https://github.com/Pranav3536/Shield_Insurance_Analysis">
 
-| | |
-|---|---|
-| 🔴 **Problem** | Sales data scattered across markets with no unified performance view |
-| 🟢 **Solution** | SQL-driven data model feeding a multi-view Power BI dashboard |
-| ✨ **Dashboard Views** | Sales · Marketing · Finance · Supply Chain |
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 💼 Business Insights 360 — AtliQ Hardware
+
+**End-to-End Business Intelligence Project**
+
+Analyzed AtliQ Hardware's business performance across **Sales, Finance, Marketing and Supply Chain** using an interactive Power BI solution.
+
+### 📊 Business Areas
+
+`Sales` · `Finance` · `Marketing` · `Supply Chain`
+
+### 🧰 Tech Stack
 
 `SQL` `Power BI` `Excel`
 
-**[→ View Repository](https://github.com/Pranav3536/Business-Insights-360)**
+<br/>
 
-</details>
+<div align="center">
+
+<a href="https://github.com/Pranav3536/Business-Insights-360">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+## 🎓 Student Exam Performance Prediction
+
+**Machine Learning Project — Predictive Analytics**
+
+Built a **Machine Learning model to predict student mathematics performance** using academic and demographic features.
+
+The project focuses on understanding how different student-related features can be used for **performance prediction**.
+
+### 🤖 Machine Learning Workflow
+
+`Data Collection`
+→
+`Data Cleaning`
+→
+`EDA`
+→
+`Feature Analysis`
+→
+`Model Training`
+→
+`Prediction`
+
+### 🧠 ML Components
+
+- Exploratory Data Analysis
+- Feature preprocessing
+- Feature analysis
+- Machine Learning model training
+- Model-based prediction
+- Flask deployment for prediction
+
+### 🧰 Tech Stack
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Flask`
 
 <br/>
 
 <div align="center">
-<sub>More repositories on my <a href="https://github.com/Pranav3536?tab=repositories">GitHub</a></sub>
+
+<a href="https://github.com/Pranav3536/student-exam-performance-prediction">
+
+<img src="https://img.shields.io/badge/VIEW%20ML%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
 </div>
 
-<br/>
+---
 
-## 🔄 My Data Workflow
+<!-- ==================== DATA WORKFLOW ==================== -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=400&color=8B5CF6&center=true&vCenter=true&width=700&lines=RAW+DATA+%E2%86%92+CLEANING+%E2%86%92+EDA+%E2%86%92+BUSINESS+ANALYSIS+%E2%86%92+POWER+BI+%E2%86%92+INSIGHTS+%E2%86%92+ML" alt="Workflow" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=125&section=header&text=MY%20DATA%20WORKFLOW&fontSize=27&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=820&lines=RAW+DATA;↓;CLEANING+%26+VALIDATION;↓;EDA+%26+STATISTICAL+ANALYSIS;↓;SQL+%26+BUSINESS+ANALYSIS;↓;POWER+BI+%26+VISUALIZATION;↓;BUSINESS+INSIGHTS;↓;MACHINE+LEARNING+%26+PREDICTION" alt="Data Workflow"/>
+
 </div>
 
 <br/>
+
+---
 
 ## 🎯 Current Focus
 
 <div align="center">
 
-`Machine Learning` `Advanced SQL` `Statistics` `Predictive Analytics` `Data Storytelling` `Business Intelligence`
+`Machine Learning`
+
+`Advanced SQL`
+
+`Statistics`
+
+`Predictive Analytics`
+
+`Power BI`
+
+`Data Storytelling`
+
+`Business Intelligence`
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=6366F1&text_color=CBD5E1&rank_icon=github" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav3536&hide_border=true&background=0F172A&ring=22D3EE&fire=6366F1&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" width="70%"/>
+
+</div>
+
+---
+
+## 🧠 Data → Insight → Action
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&lines=Clean+the+data.;Understand+the+pattern.;Find+the+business+problem.;Build+the+right+visualization.;Communicate+the+insight.;Turn+insights+into+action." alt="Data Mindset"/>
 
 </div>
 
 <br/>
 
-<div align="center">
+---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/pranav--shrivastav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-shrivastav-1101b334/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://codebasics.io/portfolio/PRANAV-SHRIVASTAV)
-[![GitHub](https://img.shields.io/badge/Pranav3536-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranav3536)
+<div align="center">
 
-<br/>
+<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:1E293B,100:0F172A&height=90&section=footer" width="100%"/>
+<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pranav3536">
+<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,75:0F172A,100:020617&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
