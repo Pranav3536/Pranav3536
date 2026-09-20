@@ -1,192 +1,193 @@
 <div align="center">
 
-# 👋 Hey, I'm Pranav Shrivastav
-
-### 📊 Data Analyst • 🤖 ML Enthusiast • 📈 Business Intelligence
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Useful+Insights;Building+Interactive+Dashboards;Exploring+Machine+Learning;Python+%7C+SQL+%7C+Power+BI+%7C+ML" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=230&section=header&text=PRANAV%20SHRIVASTAV&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=17&descColor=CBD5E1" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Turning+Raw+Data+into+Useful+Insights;Building+Interactive+Power+BI+Dashboards;Exploring+Machine+Learning+%26+Predictive+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+ML" />
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
 </a>
 &nbsp;
 <a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
 </a>
 &nbsp;
 <a href="https://github.com/Pranav3536">
-<img src="https://img.shields.io/badge/GitHub-Pranav3536-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Pranav3536&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ WHO AM I?
 
-I'm a **Data Analytics & Machine Learning enthusiast** focused on turning raw data into useful business insights.
+<table>
+<tr>
+<td width="55%">
 
-- 📊 Building interactive **Power BI dashboards**
-- 🐍 Using **Python & Pandas** for data analysis
-- 🗄️ Writing **SQL** queries for business insights
-- 🤖 Exploring **Machine Learning & Predictive Analytics**
-- 📈 Interested in **Business Intelligence & Data Storytelling**
+### 👨‍💻 Data & ML Enthusiast
 
----
+I'm a **Data Analytics and Machine Learning enthusiast** focused on transforming raw data into meaningful business insights.
 
-## ⚡ Tech Stack
+I enjoy working across the complete analytics journey:
 
-### 📊 Data Analytics & BI
+**Raw Data → Cleaning → Analysis → Visualization → Insights → Prediction**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+Currently focused on:
 
-### 🤖 Machine Learning
+- 📊 Business Intelligence & Dashboarding
+- 🐍 Python-based Data Analysis
+- 🗄️ SQL & Data Exploration
+- 🤖 Machine Learning & Predictive Analytics
+- 📈 Data Storytelling
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+</td>
 
-### 🛠️ Other Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 EV Market Analysis
-**India Electric Vehicle Market Analysis**
-
-> Analyzing EV sales, vehicle adoption and market trends using Python and Power BI.
-
-**Tech:** `Python` `Pandas` `Power BI` `DAX` `Data Analysis`
-
----
-
-### 🛡️ Shield Insurance Analysis
-**Insurance Business Analytics**
-
-> Exploring customer demographics, premium revenue and sales channels to identify business insights.
-
-**Tech:** `SQL` `Python` `Excel` `Power BI`
-
----
-
-### 🚕 GoodCabs Business Analytics
-**Business & Operational Performance Analysis**
-
-> Analyzing trips, revenue, passenger activity and target achievement for a cab service business.
-
-**Tech:** `Excel` `SQL` `Python` `Power BI`
-
----
-
-### 📊 Business Insights 360
-**Enterprise Business Intelligence Dashboard**
-
-> A multi-view Power BI solution covering Finance, Sales, Marketing and Supply Chain analytics.
-
-**Tech:** `Power BI` `DAX` `Power Query`
-
----
-
-### 🎓 Student Performance Prediction
-**Machine Learning Prediction System**
-
-> A machine learning project that predicts student performance using academic and demographic features.
-
-**Tech:** `Python` `Scikit-learn` `Flask` `Pandas` `Machine Learning`
-
----
-
-## 🔄 My Data Workflow
-
-<div align="center">
+<td width="45%">
 
 ```text
-        📥 RAW DATA
-             │
-             ▼
-      🧹 DATA CLEANING
-             │
-             ▼
-       🔍 EDA & ANALYSIS
-             │
-             ▼
-       📊 BUSINESS INSIGHTS
-             │
-             ▼
-      📈 DASHBOARDS / BI
-             │
-             ▼
-       🤖 ML & PREDICTION
-             │
-             ▼
-       💡 BETTER DECISIONS
-## 📈 GitHub Stats
-
+┌──────────────────────────────┐
+│       PRANAV.EXE            │
+├──────────────────────────────┤
+│                              │
+│  📊 DATA ANALYTICS   [ON]   │
+│  🤖 MACHINE LEARNING [ON]   │
+│  📈 BUSINESS INTEL   [ON]   │
+│  🐍 PYTHON           [ON]   │
+│  🗄️ SQL              [ON]   │
+│                              │
+│  STATUS: ● BUILDING         │
+│                              │
+└──────────────────────────────┘
+🛠️ TECH STACK
 <div align="center">
+📊 Analytics & Business Intelligence
+<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/> <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/> <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/POWER%20QUERY-742774?style=for-the-badge&logoColor=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+🤖 Machine Learning & Data Science
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+
+<br><br>
+
+🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" height="55"/> </div>
+🚀 FEATURED WORK
+<table> <tr> <td width="50%">
+🚗 EV Market Analysis
+
+India EV Market Intelligence
+
+Analyzing electric vehicle sales, adoption and market trends using Python and Power BI.
+
+Stack
+
+Python Pandas Power BI DAX
+
+</td> <td width="50%">
+🛡️ Shield Insurance
+
+Insurance Business Analytics
+
+Analyzing customers, premium revenue, demographics and sales channels to uncover business insights.
+
+Stack
+
+SQL Python Excel Power BI
+
+</td> </tr> <tr> <td width="50%">
+🚕 GoodCabs Analytics
+
+Business & Operational Analytics
+
+Analyzing trips, revenue, passenger activity and target achievement for a cab service business.
+
+Stack
+
+Excel SQL Python Power BI
+
+</td> <td width="50%">
+📊 Business Insights 360
+
+Enterprise BI Dashboard
+
+Multi-functional Power BI dashboard covering Finance, Sales, Marketing and Supply Chain.
+
+Stack
+
+Power BI DAX Power Query
+
+</td> </tr> <tr> <td width="50%">
+🎓 Student Performance Prediction
+
+Machine Learning
+
+Predicting student performance using demographic and academic features.
+
+Stack
+
+Python Scikit-learn Flask Pandas
+
+</td> <td width="50%">
+
+</td> </tr> </table>
+🧠 HOW I WORK WITH DATA
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=750&height=45&lines=01.+Collect+%E2%86%92+02.+Clean+%E2%86%92+03.+Explore;04.+Analyze+%E2%86%92+05.+Visualize+%E2%86%92+06.+Explain;07.+Model+%E2%86%92+08.+Predict+%E2%86%92+09.+Improve" /> </div> <br>
+                    ┌──────────────┐
+                    │   RAW DATA   │
+                    └──────┬───────┘
+                           ↓
+                    🧹 DATA CLEANING
+                           ↓
+                    🔍 EDA & ANALYSIS
+                           ↓
+                 ┌─────────┴─────────┐
+                 ↓                   ↓
+          📊 POWER BI           🤖 MACHINE
+          DASHBOARDS             LEARNING
+                 ↓                   ↓
+                 └─────────┬─────────┘
+                           ↓
+                    💡 BUSINESS
+                       INSIGHTS
+📈 GITHUB ANALYTICS
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Pranav3536&theme=tokyonight&hide_border=true" /> </div>
+🌱 CURRENTLY EXPLORING
+<div align="center"> <img src="https://img.shields.io/badge/MACHINE%20LEARNING-0F172A?style=for-the-badge&logo=python&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/ADVANCED%20SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/STATISTICS-0F172A?style=for-the-badge&logo=googleanalytics&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/PREDICTIVE%20ANALYTICS-0F172A?style=for-the-badge&logo=databricks&logoColor=22D3EE"/> <img src="https://img.shields.io/badge/DATA%20STORYTELLING-0F172A?style=for-the-badge&logo=tableau&logoColor=22D3EE"/> </div>
+🎯 CURRENT FOCUS
+<div align="center">
+Data Analytics · Business Intelligence · Machine Learning
+<br>
+
+Turning numbers into insights.
+Turning insights into decisions.
 
 </div>
+🤝 LET'S CONNECT
+<div align="center"> <a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/"> <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
 
----
+ 
 
-## 🔥 Contribution Activity
+<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV"> <img src="https://img.shields.io/badge/PORTFOLIO-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/> </a>
 
-<div align="center">
+ 
 
-<img src="https://streak-stats.demolab.com?user=Pranav3536&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Pranav3536"> <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
 
-</div>
+<br><br>
 
----
-
-## 🌱 Currently Exploring
-
-<div align="center">
-
-`Machine Learning` • `Advanced SQL` • `Statistics` • `Predictive Analytics` • `Data Storytelling`
-
-</div>
-
----
-
-## 🎯 Career Focus
-
-<div align="center">
-
-**Data Analytics** • **Business Intelligence** • **Machine Learning**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:312E81,100:0F172A&height=120&section=footer&animation=twinkling"/> </div> ```
