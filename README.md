@@ -107,6 +107,43 @@ I work with **Python, SQL, Excel and Power BI** for data cleaning, analysis, vis
 
 # 🚀 Projects
 
+## 📧 OutreachIQ — Smart Outreach Intelligence Platform
+
+Machine Learning & NLP Based Outreach Management Application
+
+Built a Python and Streamlit application to manage contact data, classify job titles, prioritize relevant professional contacts, and prepare personalized emails for internship and job outreach.
+
+### 🔍 Key Features
+
+Imported, cleaned, and validated contact data using CSV and Excel files
+Categorized HR professionals, recruiters, founders, and managers using rule-based logic
+Applied TF-IDF and Logistic Regression for job-title classification
+Generated explainable priority scores to help prioritize relevant contacts
+Prepared personalized email templates with resume PDF attachments
+Supported test campaigns and real email sending through Gmail SMTP
+Tracked campaign activity, recipient statuses, and reports
+Built a keyword-based Outreach Assistant to analyze contact data and suggest actions
+
+### 🤖 ML & NLP Workflow
+
+Contact Data → Data Cleaning → Job Title Classification → Contact Prioritization → Personalized Emails → Campaign Tracking
+
+### 🧰 Tech Stack
+
+Python Pandas NumPy Scikit-learn TF-IDF Logistic Regression Streamlit Plotly Gmail SMTP pytest
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Pranav3536/Outreachiq">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
 ## 🚗 AtliQ Motors — EV Market Analysis
 
 **India Electric Vehicle Market Intelligence**
