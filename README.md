@@ -144,6 +144,8 @@ Python Pandas NumPy Scikit-learn TF-IDF Logistic Regression Streamlit Plotly Gma
 
 </div>
 
+---
+
 ## 🚗 AtliQ Motors — EV Market Analysis
 
 **India Electric Vehicle Market Intelligence**
