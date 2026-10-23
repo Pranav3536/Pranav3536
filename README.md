@@ -1,394 +1,182 @@
-<div align="center">
-
 <!-- ==================== HERO BANNER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=240&section=header&text=PRANAV%20SHRIVASTAV&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20MACHINE%20LEARNING&descAlignY=61&descSize=15&descColor=CBD5E1" width="100%"/>
-
-<br/>
-
-<!-- ==================== TYPING ANIMATION ==================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Turning+Raw+Data+into+Business+Insights;Building+Interactive+Power+BI+Dashboards;Analyzing+Business+Problems+with+Data;Building+Machine+Learning+Solutions" alt="Typing Animation"/>
-
-<br/><br/>
-
-<!-- ==================== SOCIAL LINKS ==================== -->
-
-<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://github.com/Pranav3536">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-## 👋 About Me
-
-I'm a **Data Analyst & Business Intelligence enthusiast** focused on turning raw data into clear, actionable business insights.
-
-I work with **Python, SQL, Excel and Power BI** for data cleaning, analysis, visualization and business reporting, while also exploring **Machine Learning and predictive analytics**.
-
-> **Data → Insights → Decisions**
-
-<br/>
-
 <div align="center">
 
-`📊 Data Analytics` &nbsp;&nbsp;
-`💼 Business Intelligence` &nbsp;&nbsp;
-`🤖 Machine Learning` &nbsp;&nbsp;
-`📈 Data Storytelling`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:312E81,100:06B6D4&height=230&section=header&text=PRANAV%20SHRIVASTAV&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=15&animation=fadeIn" width="100%" />
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Building+Data+Analytics+%26+ML+Projects;Python+%7C+SQL+%7C+Power+BI+%7C+NLP;Always+Learning.+Always+Building." alt="Typing SVG" /></a>
+
+<p>
+<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/Pranav3536"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
-<!-- ==================== SKILLS BANNER ==================== -->
+## 👨‍💻 About Me
+
+Hi! I'm **Pranav Shrivastav**, a B.Tech Computer Science student specializing in Data Science at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi**.
+
+I'm interested in using data to understand business problems, discover meaningful patterns, build dashboards, and develop practical machine learning solutions. I work with analytics tools and ML techniques through hands-on projects, with a growing interest in NLP and intelligent applications.
+
+- 📊 Interested in **Data Analytics, Business Intelligence, and Data Science**
+- 🐍 Working with **Python, SQL, Excel, and Power BI**
+- 🤖 Exploring **Machine Learning and fundamental NLP concepts**
+- 🔍 Focused on data cleaning, EDA, visualization, and model evaluation
+- 🚀 Building practical projects that connect technical skills with real-world use cases
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Data Analysis
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### Machine Learning & Data Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+**Core concepts:** Data Cleaning · Exploratory Data Analysis · Statistics · SQL Queries · Dashboard Development · DAX · KPI Reporting · Supervised Learning · Model Evaluation · Text Vectorization · TF-IDF
+
+---
+
+## 🚀 Featured Projects
+
+### 1. OutreachIQ — Smart Outreach Intelligence Platform
+
+A Python-based outreach application combining contact management, machine learning-based job-title classification, prioritization, and campaign tracking.
+
+**Highlights**
+- Contact data import, cleaning, and export
+- TF-IDF and Logistic Regression for job-title classification, with rule-based fallback
+- Contact prioritization and personalized email templates
+- Campaign tracking, status reporting, and analytics visualizations
+- Streamlit interface with Plotly charts
+
+**Tech:** Python · Streamlit · Pandas · Scikit-learn · TF-IDF · Logistic Regression · Plotly
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pranav3536/Outreachiq)
+
+---
+
+### 2. AtliQ Motors — EV Market Analysis
+
+An end-to-end analysis of electric vehicle adoption, manufacturer performance, and state-level market trends to identify opportunities in India's EV market.
+
+**Highlights:** Data preparation, exploratory analysis, SQL-based investigation, and interactive Power BI reporting.
+
+**Tech:** Excel · MySQL · Python · Pandas · Power BI · DAX
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pranav3536/EV-Market-Analysis-for-AtliQ-Motors)
+
+---
+
+### 3. Shield Insurance — Business & Customer Analytics
+
+An analytics project exploring insurance business performance through customer demographics, revenue patterns, and business reporting.
+
+**Highlights:** Data analysis across customer and business dimensions, KPI reporting, and dashboard-based insights.
+
+**Tech:** SQL · Python · Excel · Power BI
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pranav3536/Shield_Insurance_Analysis)
+
+---
+
+### 4. Business Insights 360 — AtliQ Hardware
+
+An interactive business intelligence solution designed to analyze business performance across multiple functions.
+
+**Highlights:** Finance, Sales, Marketing, and Supply Chain views with business-focused metrics and interactive reporting.
+
+**Tech:** Power BI · DAX · SQL · Excel
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pranav3536/Business-Insights-360)
+
+---
+
+### 5. Student Exam Performance Prediction
+
+A machine learning project that predicts students' mathematics performance using available academic and demographic features.
+
+**Highlights:** Data preprocessing, feature preparation, model training, evaluation, and a Flask-based application interface.
+
+**Tech:** Python · Pandas · NumPy · Scikit-learn · Flask
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Pranav3536/student-exam-performance-prediction)
+
+---
+
+## 🔄 My Project Workflow
+
+<p align="center">
+<img src="https://img.shields.io/badge/01-Understand_the_Problem-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Clean_%26_Explore-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Analyze_%26_Model-4338CA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Visualize_Results-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Share_Insights-0F766E?style=for-the-badge" />
+</p>
+
+I aim to understand the problem first, validate the data, choose an appropriate analytical approach, and communicate findings clearly.
+
+---
+
+## 📈 GitHub Overview
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,75:4F46E5,100:312E81&height=130&section=header&text=TECH%20STACK&fontSize=30&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav3536&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav3536&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE" alt="Most Used Languages" />
 
-</div>
-
-## ⚡ Skills & Tools
-
-### 📊 Data Analytics & BI
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
-
-<br/><br/>
-
-`Power BI` &nbsp; `Excel` &nbsp; `DAX` &nbsp; `Power Query` &nbsp; `Pandas` &nbsp; `NumPy`
-
-</div>
-
-### 🤖 Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark"/>
-
-<br/><br/>
-
-`Scikit-learn` &nbsp; `EDA` &nbsp; `Statistics` &nbsp; `Feature Analysis` &nbsp; `Predictive Analytics`
-
-</div>
-
-### 🛠️ Development & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,flask&theme=dark"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Pranav3536&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<!-- ==================== PROJECTS BANNER ==================== -->
+## 🎯 Currently Focusing On
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,40:4F46E5,70:06B6D4,100:22D3EE&height=140&section=header&text=FEATURED%20PROJECTS&fontSize=31&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
-
-</div>
-
-# 🚀 Projects
-
-## 📧 OutreachIQ — Smart Outreach Intelligence Platform
-
-Machine Learning & NLP Based Outreach Management Application
-
-Built a Python and Streamlit application to manage contact data, classify job titles, prioritize relevant professional contacts, and prepare personalized emails for internship and job outreach.
-
-### 🔍 Key Features
-
-Imported, cleaned, and validated contact data using CSV and Excel files
-Categorized HR professionals, recruiters, founders, and managers using rule-based logic
-Applied TF-IDF and Logistic Regression for job-title classification
-Generated explainable priority scores to help prioritize relevant contacts
-Prepared personalized email templates with resume PDF attachments
-Supported test campaigns and real email sending through Gmail SMTP
-Tracked campaign activity, recipient statuses, and reports
-Built a keyword-based Outreach Assistant to analyze contact data and suggest actions
-
-### 🤖 ML & NLP Workflow
-
-Contact Data → Data Cleaning → Job Title Classification → Contact Prioritization → Personalized Emails → Campaign Tracking
-
-### 🧰 Tech Stack
-
-Python Pandas NumPy Scikit-learn TF-IDF Logistic Regression Streamlit Plotly Gmail SMTP pytest
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Pranav3536/Outreachiq">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
+- Strengthening Python, SQL, and analytical problem-solving
+- Building better dashboards and communicating business insights
+- Practicing machine learning workflows and evaluation techniques
+- Learning fundamental NLP methods and text classification
+- Improving project documentation and portfolio quality
 
 ---
 
-## 🚗 AtliQ Motors — EV Market Analysis
+## 🤝 Connect With Me
 
-**India Electric Vehicle Market Intelligence**
+I'm open to connecting with people working in data analytics, business intelligence, and data science.
 
-Analyzed India's EV market to understand **sales trends, manufacturer performance, state-level penetration and year-over-year growth**.
-
-### 🔍 What I Worked On
-
-- Cleaned and prepared EV market datasets
-- Performed EDA using Python & Pandas
-- Analyzed EV sales and market penetration
-- Compared manufacturers and states
-- Built an interactive Power BI dashboard
-- Created DAX measures for business KPIs
-
-### 📊 Dashboard
-
-`Home` → `Maker Analysis` → `State Analysis` → `Executive Overview`
-
-### 🧰 Tech Stack
-
-`Python` `Pandas` `Power BI` `DAX`
-
-<br/>
+<p align="center">
+<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334b/"><img src="https://img.shields.io/badge/LinkedIn-Pranav_Shrivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/Pranav3536"><img src="https://img.shields.io/badge/GitHub-Pranav3536-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <div align="center">
 
-<a href="https://github.com/Pranav3536/EV-Market-Analysis-for-AtliQ-Motors">
+### 💡 Learn. Build. Analyze. Improve.
 
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 🛡️ Shield Insurance — Business Analytics
-
-**Insurance Business & Customer Analytics**
-
-Analyzed insurance data to understand **customer demographics, premium revenue, regional performance and sales-channel behavior**.
-
-### 🔍 Analysis Areas
-
-- Customer demographic analysis
-- Premium revenue analysis
-- Regional performance analysis
-- Sales-channel comparison
-- Business KPI analysis
-- Interactive Power BI dashboard
-
-### 💡 Business Insights
-
-**Delhi NCR** → Highest revenue/customer concentration
-
-**Age 31–40** → Strong premium revenue contribution
-
-**Offline Agents** → Strong-performing sales channel
-
-**Online Channel** → Identified growth opportunity
-
-### 🧰 Tech Stack
-
-`SQL` `Python` `Excel` `Power BI`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Pranav3536/Shield_Insurance_Analysis">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 💼 Business Insights 360 — AtliQ Hardware
-
-**End-to-End Business Intelligence Project**
-
-Analyzed AtliQ Hardware's business performance across **Sales, Finance, Marketing and Supply Chain** using an interactive Power BI solution.
-
-### 📊 Business Areas
-
-`Sales` · `Finance` · `Marketing` · `Supply Chain`
-
-### 🧰 Tech Stack
-
-`SQL` `Power BI` `Excel`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Pranav3536/Business-Insights-360">
-
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-## 🎓 Student Exam Performance Prediction
-
-**Machine Learning Project — Predictive Analytics**
-
-Built a **Machine Learning model to predict student mathematics performance** using academic and demographic features.
-
-The project focuses on understanding how different student-related features can be used for **performance prediction**.
-
-### 🤖 Machine Learning Workflow
-
-`Data Collection`
-→
-`Data Cleaning`
-→
-`EDA`
-→
-`Feature Analysis`
-→
-`Model Training`
-→
-`Prediction`
-
-### 🧠 ML Components
-
-- Exploratory Data Analysis
-- Feature preprocessing
-- Feature analysis
-- Machine Learning model training
-- Model-based prediction
-- Flask deployment for prediction
-
-### 🧰 Tech Stack
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Flask`
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Pranav3536/student-exam-performance-prediction">
-
-<img src="https://img.shields.io/badge/VIEW%20ML%20PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-<!-- ==================== DATA WORKFLOW ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=125&section=header&text=MY%20DATA%20WORKFLOW&fontSize=27&fontColor=FFFFFF&fontAlignY=55&animation=twinkling" width="100%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:4F46E5,100:8B5CF6&height=75&section=header&text=RAW%20DATA%20%E2%86%92%20CLEANING%20%E2%86%92%20EDA%20%E2%86%92%20SQL%20%E2%86%92%20POWER%20BI%20%E2%86%92%20INSIGHTS%20%E2%86%92%20ML&fontSize=15&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%"/>
-
-<br/><br/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-`Machine Learning`
-
-`Advanced SQL`
-
-`Statistics`
-
-`Predictive Analytics`
-
-`Power BI`
-
-`Data Storytelling`
-
-`Business Intelligence`
-
-</div>
-
----
-
-## 🧩 What I Work With
-
-<div align="center">
-
-`Python` · `SQL` · `Power BI` · `Excel` · `DAX` · `Pandas`
-
-<br/><br/>
-
-`Data Cleaning` · `EDA` · `Business Analytics` · `Data Visualization`
-
-<br/><br/>
-
-`Machine Learning` · `Predictive Analytics` · `Statistics`
-
-</div>
-
----
-
-## 🧠 Data → Insight → Action
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=760&lines=Clean+the+data.;Understand+the+pattern.;Find+the+business+problem.;Build+the+right+visualization.;Communicate+the+insight.;Turn+insights+into+action." alt="Data Mindset"/>
-
-</div>
-
-<br/>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pranav-shrivastav-1101b334/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://codebasics.io/portfolio/PRANAV-SHRIVASTAV">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Pranav3536">
-<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,75:0F172A,100:020617&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=100&section=footer" width="100%" />
 
 </div>
